@@ -1,0 +1,45 @@
+{
+    "payload": [{
+                "sections": [{
+                             "title": {
+                             "text": "interim_helplogin_section1_title"
+                             }
+                             }, {
+                             "paragraph": {
+                             "html": "interim_helplogin_section1_information"
+                             }
+                             }, {
+                             "title": {
+                             "text": "interim_helplogin_section2_title"
+                             }
+                             }, {
+                             "paragraph": {
+                             "html": "interim_helplogin_section2_information"
+                             }
+                             }, {
+                             "cta": {
+                             "icon": "external_link",
+                             "type": "external_link",
+                             "target": "https://itunes.apple.com/gb/app/myfirstchoice/id771740094?utm_source=thomson_uk&utm_medium=TDA&utm_content=Null&utm_campaign=Null",
+                             "title": "interim_helplogin_downloadcta_label"
+                             }
+                             }, {
+                             "title": {
+                             "text": "interim_helplogin_section4_title"
+                             }
+                             }, {
+                             "paragraph": {
+                             "html": "interim_helplogin_section4_information"
+                             }
+                             }, {
+                             "cta": {
+                             "icon": "email",
+                             "type": "email",
+                             "target": "MyThomsonHelp@thomson.co.uk",
+                             "title": "interim_helplogin_emailcta_label",
+                             "brand": "tui-uk-th"
+                             }
+                             }],
+                "id": "helplogin"
+                }]
+}

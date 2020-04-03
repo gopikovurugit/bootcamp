@@ -1,0 +1,151 @@
+{
+    "title":"Settings / Preferences",
+    "sections":[
+        {
+            "title":"Section 0",
+            "backgroundColor":"#F9F7F5",
+            "textColor":"#092A5E",
+            "iconURL":"https://www.tui.com/plusbookingicon.png",
+            "style":"imageHeader",
+            "items":[
+                {
+                    "title":"Item 0",
+                    "targetURL":"tuidemt://bookaholiday",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    "headerImage":"https://cdn.content.tuigroup.com/adamtui/2016_5/10_10/4d0466dc-1eb7-4c2b-bc69-a60200a5e7ad/holiday_summary_preferences_header_landscape.jpg?api-key=tda&i10c=img.resize(width%3A4096)"
+                }
+            ]
+        },
+        {
+            "title":"Section 1",
+            "backgroundColor":"#F9F7F5",
+            "textColor":"#092A5E",
+            "iconURL":"https://www.tui.com/plusbookingicon.png",
+            "style":"header",
+            "items":[
+                {
+                    "title":"Cancun, Mexico",
+                    "targetURL":"tuidemt://bookaholiday",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                }
+            ]
+        },
+        {
+            "title":"Section 2",
+            "backgroundColor":"#F9F7F5",
+            "textColor":"#092A5E",
+            "style":"item",
+            "items":[
+                {
+                    "title":"menu_label_holiday_title",
+                    "targetURL":"/itinerary",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                },
+                {
+                    "title":"menu_label_guides_title",
+                    "targetURL":"/guides",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                },
+                {
+                    "title":"menu_label_hotel_guides_title",
+                    "targetURL":"/hotel",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                },
+                {
+                    "title":"menu_label_destination_guides_title",
+                    "targetURL":"/destination_guide",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                },
+                {
+                    "title":"menu_label_excursions_title",
+                    "targetURL":"/excursions",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                },
+                {
+                    "title":"menu_label_weather_title",
+                    "targetURL":"/weather",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                },
+                {
+                    "title":"menu_label_travel_checklist",
+                    "targetURL":"/travel-checklist",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                },
+                {
+                    "title":"menu_label_holiday_extras_title",
+                    "targetURL":"/ancillaries",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                },
+                {
+                    "title":"menu_label_mobile_boarding_pass",
+                    "targetURL":"/boarding-pass",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                },
+                {
+                    "title":"menu_label_my_messages_title",
+                    "targetURL":"/mymessages",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                },
+                {
+                    "title":"menu_label_manage_booking_title",
+                    "targetURL":"/managemybooking",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                },
+                {
+                    "title":"menu_label_important_information",
+                    "targetURL":"/importantInformation",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                },
+                {
+                    "title":"menu_label_contact_us_title",
+                    "targetURL":"/contact-us",
+                    "backgroundColor":"#F9F7F5",
+                    "selectedColor":"#EBE8E1",
+                    "textColor":"#092A5E",
+                    
+                }
+            ]
+        }
+    ]
+}

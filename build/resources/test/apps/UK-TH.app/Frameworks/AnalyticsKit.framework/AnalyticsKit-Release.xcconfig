@@ -1,0 +1,13 @@
+//
+//  AnalyticsKit-Release.xcconfig
+//  TDA
+//
+//  Created by Todor Brachkov on 20/02/2020.
+//  Copyright © 2020 TUI Group Limited. All rights reserved.
+//
+
+#include "AnalyticsKit-Paths.xcconfig"
+
+DEBUG_PREPROCESSOR_MACROS = $(inherited) USE_LOGS=0
+OTHER_SWIFT_FLAGS = -D RELEASE
+API_HOST_ANALYTICS = tui-prod-prod.apigee.net

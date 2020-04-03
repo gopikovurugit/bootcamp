@@ -1,0 +1,103 @@
+{
+    "payload": {
+        "carriers": [{
+            "3rdParty": true,
+            "code": "AEA",
+            "feature": ["onlineCheckin"],
+            "market": ["UK"],
+            "name": "Air Europa"
+        }, {
+            "3rdParty": true,
+            "code": "D8",
+            "feature": ["onlineCheckin"],
+            "market": ["UK"],
+            "name": "Norwegian"
+        }, {
+            "3rdParty": true,
+            "code": "LAV",
+            "feature": ["onlineCheckin"],
+            "market": ["UK"],
+            "name": "Albastar"
+        }, {
+            "3rdParty": true,
+            "code": "VOE",
+            "feature": ["onlineCheckin"],
+            "market": ["UK"],
+            "name": "Volotea"
+        }, {
+            "3rdParty": false,
+            "code": "TUI",
+            "feature": ["onlineCheckin"],
+            "market": ["UK"],
+            "name": "TUI Jet"
+        }, {
+            "3rdParty": false,
+            "code": "TOM",
+            "feature": ["onlineCheckin"],
+            "market": ["UK"],
+            "name": "TUI Airways"
+        }, {
+            "3rdParty": true,
+            "code": "FPO",
+            "feature": ["onlineCheckin"],
+            "market": ["UK"],
+            "name": "ASL Airlines"
+        }, {
+            "3rdParty": true,
+            "code": "EVE",
+            "feature": ["onlineCheckin"],
+            "market": ["UK"],
+            "name": "Evelop Airlines"
+        }, {
+            "3rdParty": true,
+            "code": "TVS",
+            "feature": ["onlineCheckin"],
+            "market": ["UK"],
+            "name": "Travel Service"
+        }],
+        "flight_checkin": {
+            "show_countdown": false
+        },
+        "guideonline": {
+            "availability_end": {
+                "after_days_get": 4,
+                "after_days_post": 2,
+                "based_on": "booking_end_date"
+            },
+            "availability_start": {
+                "based_on": "booking_start_date",
+                "before_days_get": 15,
+                "before_days_post": 15
+            },
+            "sms_contact": {
+                "phone": "+46737494060"
+            }
+        },
+        "nativeReview": {
+            "enabled": true,
+            "maxByYear": 3,
+            "minSessions": 3,
+            "prompt": {
+                "buttons": [{
+                    "action": "",
+                    "title": "review_feedback_prompt_negative",
+                    "actionType": "negative"
+                }, {
+                    "action": "itms-apps://itunes.apple.com/app/id643831079?utm_source=tui_uk&utm_medium=TDA&utm_content=Null&utm_campaign=Null",
+                    "title": "review_feedback_prompt_positive",
+                    "actionType": "positive"
+                }],
+                "subtitle": "review_feedback_prompt_A_subtitle",
+                "title": "review_feedback_prompt_A_title"
+            },
+            "requiresLogin": true
+        },
+        "abTests": {
+            "searchAndBookScreen": "searchPanels"
+        },
+        "inFlightEntertainment": {
+            "wifiSSID": "navigateIFE",
+            "ifeUrl": "https://inflight.navigateife-tui.com"
+        }
+    }
+}

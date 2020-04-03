@@ -1,0 +1,47 @@
+{
+    "onboarding": [
+       {
+            "type": "textImage",
+            "analytics": "onboarding_welcome",
+            "title": "onboarding_welcome_title",
+            "subtile": "onboarding_welcome_details",
+            "imageLocal": "image-welcome",
+            "imageRemote": null,
+            "weight": 4000
+       },
+       {
+           "type": "countryPicker",
+           "analytics": "onboarding_offers",
+           "title": "onboarding_country_picker_title",
+           "subtile": "onboarding_country_picker_details",
+           "weight": 2000,
+           "onboardingButton": {
+               "title" : "onboarding_country_picker_CTA",
+               "action": "continueAction"
+           },
+           "options": [
+               {
+                   "code": "GB",
+                   "name": "authentication_picker_country_united_kingdom"
+               },
+               {
+                   "code": "IE",
+                   "name": "authentication_picker_country_ireland"
+               }
+           ]
+       },
+       {
+            "type": "textImage",
+            "analytics": "onboarding_completed",
+            "title": "onboarding_get_started_title",
+            "subtile": "onboarding_get_started_description",
+            "imageLocal": "image-readytakeoff",
+            "imageRemote": null,
+            "weight": 500,
+            "onboardingButton": {
+                "title" : "onboarding_get_started_CTA",
+                "action": "endAction"
+            }
+        }
+    ]
+}

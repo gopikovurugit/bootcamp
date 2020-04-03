@@ -1,0 +1,31 @@
+{
+    "version" : "1.0",
+    "analytics" : {
+        "rsids" : "tuiukappprod",
+        "server" : "tuiuk.d1.sc.omtrdc.net",
+        "charset" : "UTF-8",
+        "ssl" : true,
+		"offlineEnabled" : false,
+        "lifecycleTimeout" : 300,
+		"referrerTimeout" : 5,
+        "batchLimit" : 0,
+        "privacyDefault" : "optedin",
+		"backdateSessionInfo" : false,
+		"poi" : []
+    },
+	"target" : {
+		"clientCode" : "",
+		"timeout" : 5
+	},
+	"audienceManager" : {
+		"server" : "",
+		"analyticsForwardingEnabled": false
+	},
+	"acquisition" : {
+		"server" : "c00.adobe.com",
+		"appid" : "2914d3e0bbd3df96dbe9fe423e48e631b2ea9c63109d53f8f30ea67c88305007"
+    },
+    "marketingCloud" : {
+        "org": "41E27DA552A6473A0A490D4D@AdobeOrg"
+    }
+}

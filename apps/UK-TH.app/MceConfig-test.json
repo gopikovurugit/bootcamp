@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://euapi.ibm.xtify.com/3.0/",
+    "appKey": {
+        "dev":"apS8wiDG5P",
+        "prod":"apS8wiDG5P"
+    },
+    "autoInitializeFlag": true,
+    "sessionTimeout": 20,
+    "metricTimeInterval": 180,
+    "loglevel": "verbose"
+}

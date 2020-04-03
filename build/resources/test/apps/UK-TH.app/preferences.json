@@ -1,0 +1,35 @@
+{
+    "title": "Settings",
+    "sections": [
+        {
+            "backgroundColor": "#FFFFFF",
+            "style": "list",
+            "iconURL": null,
+            "title": "Help and support",
+            "textColor": "#000000",
+            "items": [
+                {
+                    "backgroundColor": "#FFFFFF",
+                    "iconURL": null,
+                    "title": "Terms & conditions",
+                    "targetURL": "tuitdamt://iab?url=https%3A%2F%2Fwww.tui.co.uk%2Feditorial%2Flegal%2Fbooking-terms-and-conditions.html%3Fi%26utm_source%3Dtui_uk%26utm_medium%3DTDA%26utm_content%3DNull%26utm_campaign%3DNull%26title%3DcontactUs_linkTerm_label",
+                    "textColor": "#585858"
+                },
+                {
+                    "backgroundColor": "#FFFFFF",
+                    "iconURL": null,
+                    "title": "Privacy policy",
+                    "targetURL": "tuitdamt://iab?url=https%3A%2F%2Fwww.tui.co.uk%2Feditorial%2Flegal%2Fprivacy-policy.html%3Fi%26utm_source%3Dtui_uk%26utm_medium%3DTDA%26utm_content%3DNull%26utm_campaign%3DNull%26title%3DcontactUs_linkPrivacy_label",
+                    "textColor": "#585858"
+                },
+                {
+                    "backgroundColor": "#FFFFFF",
+                    "iconURL": null,
+                    "title": "Travel Alerts",
+                    "targetURL": "tuitdamt://iab?url=https%3A%2F%2Fwww.tui.co.uk%2Fdestinations%2Ftravel-information%3Fi%26utm_source%3Dtui_uk%26utm_medium%3DTDA%26utm_content%3DNull%26utm_campaign%3DNull%26title%3DcontactUs_travelAlerts_label",
+                    "textColor": "#585858"
+                }
+            ]
+        }
+    ]
+}

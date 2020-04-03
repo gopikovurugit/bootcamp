@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>888290951520-uc26mhh450vuoacnh27ov5f7a8uivbaa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.888290951520-uc26mhh450vuoacnh27ov5f7a8uivbaa</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>888290951520-rk3f86c9mooql16jos00v1fftngskg4g.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKK-9yM9lE95fkWOYs_XzydayaDxF0_IM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>888290951520</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tui.tda.uk-th.dev</string>
+	<key>PROJECT_ID</key>
+	<string>tui-uk-cloud-messages</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tui-uk-cloud-messages.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:888290951520:ios:94c18371bc64cbf8</string>
+	<key>DATABASE_URL</key>
+	<string>https://tui-uk-cloud-messages.firebaseio.com</string>
+</dict>
+</plist>
